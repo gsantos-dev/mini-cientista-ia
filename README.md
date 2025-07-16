@@ -119,4 +119,4 @@ Desenvolvido por **Guilherme Santos Pereira**
 
 ---
 
-## 🚀 Dica: Este projeto é ideal para pesquisadores, estudantes e profissionais que precisam de uma forma rápida e eficiente de analisar literatura científica!
+## 🚀 Dica: Este projeto é ideal para pesquisadores, estudantes e profissionais que precisam de uma forma rápida e eficiente de analisar literatura científica ou até mesmo gerar seus próprios artigos!
